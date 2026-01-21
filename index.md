@@ -7,6 +7,8 @@ layout: default
 
 Graduate student in Computer Science (Data & Analytics), UMKC.
 
+[Home](/) · [Projects](/PROJECTS) · [About](/ABOUT) · [Resume](/RESUME)
+
 ## Projects
 
 - 
@@ -20,8 +22,6 @@ Graduate student in Computer Science (Data & Analytics), UMKC.
 
 ## Contact
 
-- Email: morgan.sansone@outlook.com
+- Email: [morgan.sansone@outlook.com](mailto:morgan.sansone@outlook.com)
 - LinkedIn: https://www.linkedin.com/in/morgansansone
-- GitHub: https://github.com/morgansansone\
-
-  <!-- test -->
+- GitHub: https://github.com/morgansansone
